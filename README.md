@@ -1,3 +1,5 @@
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Reetu M Tambre
 =======================================================================================================================================
 
@@ -5,8 +7,9 @@ Software Engineering
 --------------------
 
 Software Engineer with 2.5+ years of experience building scalable web applications using React.js, TypeScript, and Python. Strong expertise in developing production-ready systems with Kafka, Docker, and GCP. Experienced in designing event-driven architectures, optimizing performance, and delivering high-impact features in fintech and enterprise applications. Seeking to contribute to product-based companies with a focus on scalability and innovation.
+<img align="right" alt="coding" width="400px" src="https://github.com/user-attachments/assets/48174382-53b7-49da-a3bd-95fe7193b5f3" />
 
-* 🌍  I'm based in India
+* 🔭 I’m currently working in **GTPL**
 * 🖥️  See my portfolio at [https://reetumt.github.io/My-Portofolio/](http://https://reetumt.github.io/My-Portofolio/)
 * ✉️  You can contact me at [ritreetu642@gmail.com](mailto:ritreetu642@gmail.com)
 * 🧠  I'm currently learning React Framework
@@ -24,8 +27,3 @@ Software Engineer with 2.5+ years of experience building scalable web applicatio
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reetum1997&" alt="reetum1997" /></p>
-
-<b>Top Repositories</b>
-
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
