@@ -1,29 +1,70 @@
+<h1 align="center">Hi 👋, I'm Reetu M Tambre</h1>
+<h3 align="center">Software Engineer | React • TypeScript • Python</h3>
 
+---
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Reetu M Tambre
-=======================================================================================================================================
+### 🚀 About Me
 
-Software Engineering
---------------------
+💻 Software Engineer with **2.5+ years of experience** building scalable and production-ready web applications.  
+⚡ Skilled in **React.js, TypeScript, Python**, and modern cloud technologies.  
+📊 Experienced in **event-driven architecture, performance optimization**, and fintech/enterprise systems.  
+🎯 Passionate about building **high-impact, scalable products**.
 
-Software Engineer with 2.5+ years of experience building scalable web applications using React.js, TypeScript, and Python. Strong expertise in developing production-ready systems with Kafka, Docker, and GCP. Experienced in designing event-driven architectures, optimizing performance, and delivering high-impact features in fintech and enterprise applications. Seeking to contribute to product-based companies with a focus on scalability and innovation.
-<img align="right" alt="coding" width="400px" src="https://github.com/user-attachments/assets/48174382-53b7-49da-a3bd-95fe7193b5f3" />
+---
 
-* 🔭 I’m currently working in **GTPL**
-* 🖥️  See my portfolio at [https://reetumt.github.io/My-Portofolio/](http://https://reetumt.github.io/My-Portofolio/)
-* ✉️  You can contact me at [ritreetu642@gmail.com](mailto:ritreetu642@gmail.com)
-* 🧠  I'm currently learning React Framework
+<img align="right" alt="coding" width="380" src="https://github.com/user-attachments/assets/48174382-53b7-49da-a3bd-95fe7193b5f3" />
+
+- 🔭 Currently working at **GTPL**
+- 🌐 Portfolio: [My Portfolio](https://reetumt.github.io/My-Portofolio/)
+- 📧 Email: **ritreetu642@gmail.com**
+- 🧠 Learning: **Advanced React Frameworks (Next.js, Architecture)**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💡 Languages
+JavaScript • TypeScript • Java • Python
+
+#### 🎨 Frontend
+React.js • Next.js • HTML5 • CSS3 • Tailwind CSS • Material UI
+
+#### ⚙️ Backend & Database
+Django • PostgreSQL
+
+#### ☁️ DevOps & Tools
+Docker • Google Cloud Platform • VS Code • Vite
+
+---
+
+### 🔗 Connect With Me
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
+<a href="https://github.com/ReetuM1997" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
+</a>
+<a href="https://www.linkedin.com/in/reetu-m-tambre-55945920a/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
+</a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/https://github.com/ReetuM1997" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/reetu-m-tambre-55945920a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### 📊 GitHub Stats
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reetum1997&show_icons=true&locale=en&layout=compact" alt=reetum1997" /></p> -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reetum1997&show_icons=true&locale=en" alt="reetum1997" /></p> -->
+<p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=reetum1997&" />
+</p>
 
+---
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=reetum1997&" alt="reetum1997" /></p>
+### 🌱 What I'm Focused On
+
+- Building scalable frontend architectures  
+- Improving system performance  
+- Learning advanced backend & distributed systems  
+- Contributing to impactful product-based companies  
+
+---
+
+⭐ *Always open to learning, building, and collaborating on exciting projects!*
