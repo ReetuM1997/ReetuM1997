@@ -60,8 +60,9 @@ Docker • Google Cloud Platform • VS Code • Vite
 * Implemented **search and dynamic card rendering**
 * Used **React Hooks for efficient state management**
 * Optimized API calls and UI performance
-
+  
 🔗 [Live Demo](https://reetumt.github.io/PokeMon/)
+
 ---
 
 ### 🔗 Connect With Me
